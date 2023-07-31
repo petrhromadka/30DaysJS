@@ -1,0 +1,1 @@
+console.log('Vítej na mém kurzu')
